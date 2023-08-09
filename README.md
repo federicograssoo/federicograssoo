@@ -1,6 +1,5 @@
-Hi there👋
-I’m @federicograssoo,
-a graphic design student who occasionally plays with html and css
+👋hi there, I’m @federicograssoo\
+👨🏻‍💻a graphic design student who occasionally plays with html and css
 
 
 <!---
